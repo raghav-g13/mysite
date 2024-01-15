@@ -1,0 +1,16 @@
+baseURL = 'https://raghav-g13.github.io/'
+languageCode = 'en-us'
+title = "Raghav's Personal Website"
+theme = 'hugo-theme-nix'
+canonifyurls = true
+
+[params]
+  Name = "Raghav Gupta"
+  HeaderUsername = "raghav"
+  HeaderHostname = "cal"
+  About = "Hi, thanks for stopping by! </br> I'm a 1st year Computer Science PhD student at the University of California, Berkeley working in SLICE Lab. My research interests lie in computer architecture and systems design, particularly for warehouse-scale computing. I enjoy running, biking, hiking, and travelling. I passionately follow Formula 1 and aviation."
+  ProfilePicture = "images/raghav-face-full.jpg"
+  CvURL = "https://raghav-g13.github.io/cv/"
+  Email = "raghavgupta@berkeley.edu"
+  GithubID = "raghav-g13"
+  LinkedInID = "raghavgupta1303"
