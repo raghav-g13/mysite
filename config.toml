@@ -1,6 +1,6 @@
 baseURL = 'https://raghav-g13.github.io/'
 languageCode = 'en-us'
-title = "Raghav's Personal Website"
+title = "Raghav Gupta"
 theme = 'hugo-theme-nix'
 canonifyurls = true
 
